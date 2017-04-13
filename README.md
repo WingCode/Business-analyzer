@@ -1,1 +1,1 @@
-hello
+This is a python MapReduce code run from a web interface when you upload the file. PHP, Wordpress, Chart.js was also used. For detailed project info visit [Wiki](https://github.com/smallstar1234/Business-analyzer/wiki)
